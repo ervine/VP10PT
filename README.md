@@ -1,4 +1,5 @@
 # VP10PT
 optical physical layer simulation toolbox
 
-_ **Ervine** from **ZJU**, in 2015_
+
+*By __Ervine__ from __ZJU__, in 2015*
