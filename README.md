@@ -1,3 +1,1 @@
-# VP10PT
-optical physical layer simulation toolbox
-from ZJU
+# VP10PToptical physical layer simulation toolbox***Ervine** from **ZJU**, 2015.*
